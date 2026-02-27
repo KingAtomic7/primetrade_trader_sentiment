@@ -35,10 +35,7 @@ Data Science Intern (Round-0) assignment: analyze how Bitcoin Fear/Greed sentime
   - **Part C:** Actionable strategy recommendations
   - **Bonus:** Predictive model (next-day PnL bucket), trader clustering, and chart exports
 
-- **Dashboard (optional):** After running the notebook, launch the Streamlit app:
-  ```bash
-  streamlit run dashboard.py
-  ```
+
 
 ## Project structure
 
